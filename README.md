@@ -1,4 +1,4 @@
-uchan.github.com
-================
-
 My github page
+===============
+
+<http://uchan.github.com>
